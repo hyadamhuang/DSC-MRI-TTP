@@ -1,5 +1,5 @@
 # DSC-MRI-TTP
-Keywords: Pediatric Moyamoya Disease MR Perfusion Monitoring, ischemic stroke, Time To Peak
+Keywords: Pediatric Moyamoya Disease MR Perfusion Monitoring, ischemic stroke, Time To Peak, Full Width at Half Maximum
 
 This code is a part of manuscript and available under the MIT License.
 
@@ -12,8 +12,7 @@ This code has been submitted as a part of supplementary information for publicat
 
 Journal: Scientific Reports;
 
-Manuscript title: Transitional Bolus Delay and Dispersion Changes in
-Pediatric Moyamoya Disease MR Perfusion Monitoring;
+Manuscript title: Time to Peak and Full Width at Half Maximum in MR Perfusion: Valuable Indicators for Monitoring Moyamoya Patients after Revascularization;
 
 Authors: Adam Huang (National Central University, Taiwan), Chung-Wei Lee
 (National Taiwan University Hospital), Hon-Man Liu (Fu Jen Catholic
