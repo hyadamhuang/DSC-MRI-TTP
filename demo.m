@@ -3,8 +3,7 @@
 % Run this program to draw Figure 1
 % This code has been submitted as supplementary for publication review
 % Journal: Scientific Reports
-% Manuscript title: Transitional Bolus Delay and Dispersion Changes in
-% Pediatric Moyamoya Disease MR Perfusion Monitoring
+% Manuscript title: "Time to Peak and Full Width at Half Maximum in MR Perfusion: Valuable Indicators for Monitoring Moyamoya Patients after Revascularization"
 % Authors: Adam Huang (National Central University, Taiwan), Chung-Wei Lee
 % (National Taiwan University Hospital), Hon-Man Liu (Fu Jen Catholic
 % University Hospital, Fu-Jen Catholic University, New Taipei City, Taiwan)
