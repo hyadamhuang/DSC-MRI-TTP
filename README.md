@@ -20,4 +20,7 @@ University Hospital, Fu-Jen Catholic University, New Taipei City, Taiwan);
 
 *Corresponding author E-mail address: inr.liu@gmail.com, hmliu@ntu.edu.tw
 
+Cite the article:
+Huang, A., Lee, CW. & Liu, HM. Time to peak and full width at half maximum in MR perfusion: valuable indicators for monitoring moyamoya patients after revascularization. Sci Rep 11, 479 (2021). https://doi.org/10.1038/s41598-020-80036-3
+
 Date: 2020/11/20
